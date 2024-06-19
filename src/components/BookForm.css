@@ -1,0 +1,19 @@
+/* BookForm.css */
+.book-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+.form-group {
+margin-bottom: 15px;
+}
+
+.form-group label {
+margin-right: 10px;
+}
+
+.form-group input {
+padding: 5px;
+}
+  

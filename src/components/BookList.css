@@ -1,0 +1,9 @@
+/* BookList.css */
+.book-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.book-list li {
+  margin: 10px 0;
+}
